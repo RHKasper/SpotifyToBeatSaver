@@ -45,3 +45,4 @@ Logs/
 UserSettings/
 Packages/packages-lock.json
 *.private*
+ProjectSettings/RiderScriptEditorPersistedState.asset
